@@ -1,0 +1,8 @@
+{
+  "name": "minimal-onchain-oracle",
+  "version": "1.0.0",
+  "description": "Secure Price Feed Oracle for Web3 Applications",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
